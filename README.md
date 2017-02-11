@@ -1,2 +1,4 @@
-# Wolf3D
-First person raycast maze explorer
+# MiniWolfX 2014
+> First person raycasted maze explorer
+
+Works on BLinux and uses MiniLibX. Code dates from my first year in development, so it might be a bit messy.
